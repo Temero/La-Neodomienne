@@ -1,0 +1,205 @@
+body{
+	margin:0px;
+	background-color: white;
+	text-align: center;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	background-color: white;
+	
+}
+#acceuil content #block{
+	width:1000px;
+}
+content #block {
+  width: 800px;
+  background-color: #b4f043;
+  border-radius: 10px;
+  padding: 50px;
+  margin: 20px;
+}
+content{
+	padding:10px;
+	display: inline-block;
+}
+#block img{
+	width: 100%;
+	height: 100%;
+}
+#course img{
+	width: 100%;
+	height: 100%;
+}
+.center-div {
+     margin: auto;
+}
+#imgBlock{
+	width: 100%;
+}
+#logos{
+	width: 100%;
+	font-size: 25px;
+}
+#navigation{
+	background-image: url("media/baniereMenuBlanc1.gif");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	padding: 10px;
+	margin: 0px;
+}
+#navigation img{
+	height: auto;
+	width: 100%;
+	display: inline-block;
+	margin-right: -100px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+#navigation div{
+	display: inline-block;
+}
+
+#navigation a{
+	text-decoration:none;
+	font-size: 23px;
+	padding-left: 10px;
+	padding-right: 10px;
+	color:black;
+	float:left;
+
+}
+#navig{
+	font-weight: bold;
+	text-align: center;
+}
+#navig div{
+    background-color: yellow;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+#navigBlocks{
+	font-size: 40px;
+}
+#navig a{
+	padding: 10px;
+}
+#navig a:hover{
+	background-color: orange;
+	border-radius: 10px;
+
+}
+#navigLogo{
+	float: left;
+	width: 400px;
+	margin-right: -50px;
+}
+#navigLogo a{
+	padding: 0px;
+}
+#navigLogo2{
+	float: right;
+	width: 200px;
+	margin-right: 50px;
+}
+#titre{
+	padding-left: 10px;
+	font-size: 20px;
+	background-color: #000000;
+	padding: 10px;
+}
+h1,h2,h3{
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	margin-top: 0px;
+}
+#contenu div{
+	text-align: center;
+	background-color: #ffffff;
+}
+.button {
+  background-color: white;
+  color: black;
+  border: 2px solid #304a01;
+  border-radius: 12px;
+  font-size: 30px;
+  padding: 20px;
+  margin: 5px;
+  background-color: #486e02;
+  text-decoration: none;
+}
+.button:hover{
+	color: white;
+}
+
+footer{
+	padding: 20px;
+	background-color: #b4f043;
+}
+footer div{
+	padding-left:50px;
+}
+#tresgros img{
+	height:auto;
+	width: 50%;
+	margin:5px;
+}
+#gros img{
+	height:auto;
+	width: 30%;
+	margin:5px;
+}
+#moyen img{
+	height:auto;
+	width: 22%;
+	margin:5px;
+}
+#normal img{
+	height:auto;
+	width: 20%;
+	margin:5px;
+}
+#petit img{
+	height:auto;
+	width: 15%;
+	margin:5px;
+}
+#petitMaisPasTrop img{
+	height: auto;
+	width: 10%;
+	margin: 5px;
+}
+#strava img{
+	width:100px;
+}
+#trespetit img{
+	height: auto;
+	width: 2%;
+	margin:5px;
+}
+.partenaires{
+	float: left;
+	display: inline-block;
+	padding: 5px;
+}
+content .course{
+	width: 750px;
+	background-color: #a2e02d;
+	border-radius: 10px;
+	padding: 50px;
+	margin: 20px;
+}
+#imgPetit{
+	width: 50%;
+	text-align: center;
+	margin-right:25%;
+	margin-left: 25%;
+}
+#lalign{
+	text-align: left;
+	padding-left: 50px;
+}
+#important{
+	color:red;
+}
+.halfWidth{09:35 18/04/2023
+	width: 50%;
+	margin: 0px;
+	display: inline-block;
+}
